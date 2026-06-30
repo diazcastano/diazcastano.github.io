@@ -14,5 +14,5 @@ Data Analyst with experience in Python, SQL, data visualization, and exploratory
 
 ### Contact
 - Linkedin: www.linkedin.com/in/daniel-diaz-castaño
-- Github: diazcastano.github.io
+- Github: [diazcastano.github.io](https://github.com/diazcastano/diazcastano.github.io)
 - Email: diazcastanod0@gmail.com
