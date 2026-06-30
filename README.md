@@ -3,7 +3,7 @@
 
 Data Analyst with experience in Python, SQL, Pandas, data visualization, exploratory data analysis (EDA), and data-driven problem solving.
 
-##Technologies
+### Technologies
 - Python
 - SQL
 - Pandas
@@ -12,7 +12,7 @@ Data Analyst with experience in Python, SQL, Pandas, data visualization, explora
 - Seaborn
 - Excel
 
-##Contact
+### Contact
 - Linkedin: www.linkedin.com/in/daniel-diaz-castaño
 - Github: diazcastano.github.io
 - Email: diazcastanod0@gmail.com
